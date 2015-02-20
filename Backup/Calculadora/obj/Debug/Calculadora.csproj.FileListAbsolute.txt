@@ -1,0 +1,13 @@
+C:\Users\Andres Arguelles\Source\Repos\WP_UIDesign-master\Backup\Calculadora\Bin\Debug\ApplicationIcon.png
+C:\Users\Andres Arguelles\Source\Repos\WP_UIDesign-master\Backup\Calculadora\Bin\Debug\Background.png
+C:\Users\Andres Arguelles\Source\Repos\WP_UIDesign-master\Backup\Calculadora\Bin\Debug\Calculadora.dll
+C:\Users\Andres Arguelles\Source\Repos\WP_UIDesign-master\Backup\Calculadora\Bin\Debug\Calculadora.pdb
+C:\Users\Andres Arguelles\Source\Repos\WP_UIDesign-master\Backup\Calculadora\Bin\Debug\AppManifest.xaml
+C:\Users\Andres Arguelles\Source\Repos\WP_UIDesign-master\Backup\Calculadora\Bin\Debug\Calculadora.xap
+C:\Users\Andres Arguelles\Source\Repos\WP_UIDesign-master\Backup\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Andres Arguelles\Source\Repos\WP_UIDesign-master\Backup\Calculadora\obj\Debug\App.g.cs
+C:\Users\Andres Arguelles\Source\Repos\WP_UIDesign-master\Backup\Calculadora\obj\Debug\MainPage.g.cs
+C:\Users\Andres Arguelles\Source\Repos\WP_UIDesign-master\Backup\Calculadora\obj\Debug\Calculadora.g.resources
+C:\Users\Andres Arguelles\Source\Repos\WP_UIDesign-master\Backup\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\Andres Arguelles\Source\Repos\WP_UIDesign-master\Backup\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Andres Arguelles\Source\Repos\WP_UIDesign-master\Backup\Calculadora\obj\Debug\XapCacheFile.xml
